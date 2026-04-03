@@ -160,7 +160,6 @@ python-for-beginners/
 │   └── project_02_todo_list/
 ├── project_contact_book/
 ├── README.md
-└── linkedin_post.md
 ```
 
 ---
